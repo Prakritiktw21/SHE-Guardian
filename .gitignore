@@ -1,0 +1,52 @@
+#Python (Flask backend)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment & secrets
+.env
+*.env
+config.json
+credentials.json
+
+# 📱 React Native / Expo (mobile app)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+expo-error.log
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+android/
+ios/
+web-build/
+dist/
+build/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git backup files
+*.orig
+
+# Logs
+*.log
+
+# Cache
+.cache/
+.expo/
+.expo-shared/
