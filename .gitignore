@@ -50,3 +50,14 @@ Thumbs.db
 .cache/
 .expo/
 .expo-shared/
+
+# === Voice model & datasets ===
+voice_model/datasets/
+voice_model/artifacts/
+dataset/
+data/
+*.wav
+*.mp3
+*.m4a
+*.zip
+*.csv
